@@ -34,6 +34,7 @@ Assistentes de IA que entendem e respondem bem em português.
 - [Agent Coordinator](https://github.com/alanhoff/agent-coordinator) — Skill do Codex instalada na conta do usuário para organizar trabalhos complexos em fluxos delimitados, com estado local versionado e reconciliação antes de tentar novamente; requer Python 3.11 ou mais recente, e agentes especialistas são opcionais.
 - [GitHub Copilot](https://github.com/features/copilot) — Autocompletar de código com IA dentro do editor.
 - [Cursor](https://cursor.com) — Editor de código com IA integrada.
+- [npmscan](https://npmscan.com/) — Serviço remoto de segurança para cadeia de suprimentos e plugin MCP que permite a agentes de IA inspecionar pacotes npm contra malware e avaliar confiança antes da instalação.
 - [Ollama](https://ollama.com) — Rode modelos de IA localmente na sua máquina.
 - [LangChain](https://www.langchain.com) — Framework para criar aplicações com LLMs.
 - [LlamaIndex](https://www.llamaindex.ai) — Conecte seus dados a LLMs (RAG).
